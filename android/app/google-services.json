@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108336746031",
+    "firebase_url": "https://flutter-go-52687.firebaseio.com",
+    "project_id": "flutter-go-52687",
+    "storage_bucket": "flutter-go-52687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108336746031:android:07f3d8ae50e992715c00da",
+        "android_client_info": {
+          "package_name": "com.muralijha.go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108336746031-5pim3onan7jd233rjjncmv8o35i33nrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApk4U2rLKw4lqriUXRn0zK1AS_qM1wiFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108336746031-5pim3onan7jd233rjjncmv8o35i33nrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
